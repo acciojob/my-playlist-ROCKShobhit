@@ -10,7 +10,7 @@ h1,h2{
 	border:1px solid black;
 	border-radius:5px;
 	background-color:white;
-	margin-bottom:10px;
+/* 	margin-bottom:10px; */
 }
 
 .player_one a{
@@ -19,8 +19,10 @@ h1,h2{
 }
 
 .player_two{
-	padding:0px auto;
-	margin-left:100px;
+	border:1px solid black;	
+	padding:5px;
+	margin:0px 100px;
+	background-color:rgb(255,255,255);
 }
 li{
 	list-style-type:none;
