@@ -2,8 +2,8 @@
 body{
 	background-color:#cccccc;
 }
-h1{
-	text-align:centre;
+h1,h2{
+	text-align:center;
 }
 
 .player_one{
@@ -21,4 +21,7 @@ h1{
 .player_two{
 	padding:0px auto;
 	margin-left:100px;
+}
+li{
+	list-style-type:none;
 }
